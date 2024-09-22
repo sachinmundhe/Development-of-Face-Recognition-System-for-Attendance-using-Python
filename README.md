@@ -1,3 +1,3 @@
-# One_Shot_Learning
+# Sachin mundhes's Face Recognition
 
 ## Please refer the document attached to this repo
