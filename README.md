@@ -1,3 +1,3 @@
-# Sachin mundhes's Face Recognition
+# Sachin mundhe's Face Recognition
 
 ## Please refer the document attached to this repo
